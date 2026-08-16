@@ -3,7 +3,7 @@ name: Terraform Azure Deploy
 on:
   pull_request:
     branches:
-      - main
+      - feature/rg
 
   push:
     branches:
